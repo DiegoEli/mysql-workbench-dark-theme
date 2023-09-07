@@ -47,9 +47,13 @@
     </keywords>
     
     <style id="0" fore-color-light="#abb2bf" fore-color-dark="#abb2bf" back-color-light="#232729" /> <!-- SCE_MYSQL_DEFAULT -->
+<!-- original linea 51 y 52 comment and commentline
+    <style id="1" fore-color-light="#5c6370" fore-color-dark="#5c6370" />
+    <style id="2" fore-color-light="#5c6370" fore-color-dark="#5c6370" />
+-->
 
-    <style id="1" fore-color-light="#5c6370" fore-color-dark="#5c6370" /> <!-- SCE_MYSQL_COMMENT -->
-    <style id="2" fore-color-light="#5c6370" fore-color-dark="#5c6370" /> <!-- SCE_MYSQL_COMMENTLINE -->
+    <style id="1" fore-color-light="#8C919A" fore-color-dark="#8C919A" /> <!-- SCE_MYSQL_COMMENT -->
+    <style id="2" fore-color-light="#8C919A" fore-color-dark="#8C919A" /> <!-- SCE_MYSQL_COMMENTLINE -->
     <style id="21" back-color-light="#F0F0F0" back-color-dark="#232729" /> <!-- SCE_MYSQL_HIDDENCOMMAND -->
 
     <style id="3" fore-color-light="#e06c75" fore-color-dark="#e06c75" /> <!-- SCE_MYSQL_VARIABLE -->
@@ -64,7 +68,10 @@
     <style id="8" bold="Yes" fore-color-light="#61afef" /> <!-- SCE_MYSQL_KEYWORD -->
     <style id="15" fore-color-light="#c678dd" fore-color-dark="#c678dd" /> <!-- SCE_MYSQL_FUNCTION -->
     <style id="10" fore-color-light="#c678dd" fore-color-dark="#c678dd" /> <!-- SCE_MYSQL_PROCEDUREKEYWORD -->
-    <style id="14" bold="Yes" /> <!-- SCE_MYSQL_OPERATOR -->
+    <style id="14" bold="Yes" fore-color-light="#61afef" /> <!-- SCE_MYSQL_OPERATOR -->
+<!-- original linea 67 operator
+ <style id="14" bold="Yes" /> 
+-->
 
     <style id="16" fore-color-light="#eaeaea" fore-color-dark="#eaeaea" /> <!-- SCE_MYSQL_IDENTIFIER -->
     <style id="17" fore-color-light="#eaeaea" fore-color-dark="#eaeaea" /> <!-- SCE_MYSQL_QUOTEDIDENTIFIER -->
